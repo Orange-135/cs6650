@@ -1,0 +1,5 @@
+com/example/server/config/AwsSqsConfig.class
+com/example/server/pojo/SkiersRequest.class
+com/example/server/ServerApplication.class
+com/example/server/exception/GlobalExceptionHandler.class
+com/example/server/controller/SkiersController.class
